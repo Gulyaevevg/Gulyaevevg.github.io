@@ -1,0 +1,44 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.table_h1 {
+	height: 80px;
+	align: center;
+	valign: center:
+	color: #000000;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: tahoma;
+	text-decoration: none;
+}
+
+.table_plane {
+	color: #000000;
+	font-size: 18px;
+	font-family: tahoma;
+	text-decoration: none;
+}
+
+.planelist {
+	list-style-type : square;
+}
+
+
+.MenuItem {
+	color: #01938e;
+	font-size: 22px;
+	font-family: tahoma;
+	text-decoration: none;
+}
+
+.MenuItem:hover {
+	color: #006699;
+	font-size: 28px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-decoration: none;
+}
